@@ -25,7 +25,7 @@ PASS VARCHAR(30)
 );
 
 INSERT INTO CASHIER
-VALUES("Cashier Default","CashierDefault@CashierDefault.com",7894561320,"Cashier","Cashier);
+VALUES("Cashier Default","CashierDefault@CashierDefault.com",7894561320,"Cashier","Cashier");
 
 CREATE TABLE ITEM
 (
